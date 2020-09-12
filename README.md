@@ -1,9 +1,15 @@
 # TTIP-TaskMan-Documentacion
 
-![logo inicial](https://github.com/leadiaz/TTIP-TaskMan-Documentacion/blob/master/imagenes/logo.png) 
+![logo inicial](https://github.com/leadiaz/TTIP-TASKMAN-Documentation/blob/master/imagenes/logo.png) 
 
 
-[Backlog del proyecto y de los sprints](https://trello.com/b/UgEvHkBF/tip-task-man)
+[Backlog del proyecto](https://trello.com/b/UgEvHkBF/tip-task-man)
+
+[Repositorio Front-End](https://github.com/leadiaz/TTIP-TaskMan-Frontend)
+
+[Repositorio Back-End](https://github.com/gastonDasilva/TTIP-Task-Man-Backend)
+
+[Presentacion](https://docs.google.com/presentation/d/1RqGqgya5TarHzSqAvxJn6ekIZ6-aDFNGL-eMjBVK-2o/edit#slide=id.g96bf0bdef7_0_361)
 
 ## Integrante
 * Leandro Diaz
