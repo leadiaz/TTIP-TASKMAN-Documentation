@@ -3,7 +3,11 @@
 ![logo inicial](https://github.com/leadiaz/TTIP-TASKMAN-Documentation/blob/master/imagenes/logo.png) 
 
 
-[Backlog del proyecto y de los sprints](https://trello.com/b/UgEvHkBF/tip-task-man)
+[Backlog del proyecto](https://trello.com/b/UgEvHkBF/tip-task-man)
+
+[Repositorio Front-End](https://github.com/leadiaz/TTIP-TaskMan-Frontend)
+
+[Repositorio Back-End](https://github.com/gastonDasilva/TTIP-Task-Man-Backend)
 
 ## Integrante
 * Leandro Diaz
