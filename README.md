@@ -9,6 +9,8 @@
 
 [Repositorio Back-End](https://github.com/gastonDasilva/TTIP-Task-Man-Backend)
 
+[Presentacion](https://docs.google.com/presentation/d/1RqGqgya5TarHzSqAvxJn6ekIZ6-aDFNGL-eMjBVK-2o/edit#slide=id.g96bf0bdef7_0_361)
+
 ## Integrante
 * Leandro Diaz
 * Gaston Da Silva
